@@ -8,7 +8,7 @@
 
 ### 📫 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/kito-theron"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/kito-theron-101056268/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
