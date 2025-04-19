@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kito</h1>
+<h1 align="center">Hi, I'm Kito</h1>
 <h3 align="center">Computer Science and AI @ University of Nottingham | Technology Intern @ Argus Media</h3>
 
 - 👨‍💻 Check out my projects: [My Portfolio](https://kitotheron.wixsite.com/kitotheron/my-blog)  
