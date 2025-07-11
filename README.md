@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kito</h1>
-<h3 align="center">Computer Science and AI @ University of Nottingham | Technology Intern @ Argus Media</h3>
+<h3 align="center">Computer Science and Artificial Intelligence @ University of Nottingham | Former Software Engineer Intern @ Argus Media</h3>
 
 - Check out my projects: [My Portfolio](https://kitotheron.wixsite.com/kitotheron/my-blog)  
 - Passionate about AI, Software Development, Data Science and Innovative Technology
